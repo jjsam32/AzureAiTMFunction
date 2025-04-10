@@ -37,7 +37,7 @@
         },
         "teamsWebhookUri": {
             "type": "String",
-            "defaultValue": "https://netorg18636554.webhook.office.com/webhookb2/cec9e7db-ff26-4856-8f1b-e83c182ace4d@e376721e-b27b-46bf-be12-7b31652e00c7/IncomingWebhook/4ce5942beadf481b93cd21f1da83b572/114980b9-e4fb-4062-b450-b2d2985f9cf4/V2qOC4WUELcYfMtUdndZfMPr5U9AKaw_VVeju_r7Ws_B81",
+            "defaultValue": "",
             "metadata": {
                 "description": "Teams Webhook URI for captured credentials"
             }
